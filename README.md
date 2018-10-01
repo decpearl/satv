@@ -8,4 +8,5 @@ This is the code for the IEEE TCSVT 2018 paper Structure Adaptive Total Variatio
 In this figure, Vincent van Gogh’s “Starry Night” image is decomposed into structure and texture. Starting from the left are the input, structure, and texture images. The graph on the far right represents the one-dimensional signals of the scanline’s intensity values extracted from the input, structure, and texture images.
 -------------------------------------------------------------------------------------------------------------------
 
+
 The most important parameter, which controls the degree of smoothing, is lambda. As the lambda decreases, the more smoothing occurs. 
